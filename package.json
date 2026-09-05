@@ -20,7 +20,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "pg": "^8.11.2",
-    "jsonwebtoken": "^10.1.0",
+    "jsonwebtoken": "^9.0.3",
     "bcryptjs": "^2.4.3"
   },
   "devDependencies": {
